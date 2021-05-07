@@ -10,13 +10,14 @@ Credits are also included for some google docs
 
 - #### Networking
 - #### Web Pentesting
-- #### Binary expolitation
+- #### Binary Expolitation
 - #### Practice Sites
 - #### Programming
 - #### Active Directory
-- #### Random resources
+- #### OSINT Challenges / CTF's
+- #### Random Resources
 - #### Buffer Overflows
-- #### Cheat sheets
+- #### Cheat Sheets
 ---
 
  ## Networking
@@ -110,7 +111,24 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 ## Active-Directory	
 - #### [Active Directory Security](https://adsecurity.org/)
 
-## Random resources
+## OSINT Challenges / CTF's
+
+Thank's to [Jayy](https://github.com/Jayy001) for these resources
+
+- #### [OSINT challenges](https://courses.thecyberinst.org/courses/osint-challenge)
+- #### [Sourcing Game](https://sourcing.games/game-1/)
+- #### [Quiztime Twitter](https://twitter.com/quiztime)
+- #### [OSINT Mini course](https://courses.thecyberinst.org/courses/osintmini)
+- #### [OSINT GAME](https://twitter.com/Sector035/status/1211038518635614208)
+- #### [Tracelabs search-party](https://www.tracelabs.org/initiatives/search-party)
+- #### [Tryhackme Geo Locating Images](https://tryhackme.com/room/geolocatingimages)
+- #### [Tryhackme Googl Dorking](https://tryhackme.com/room/googledorking)
+- #### [Tryhackme Sakura](https://tryhackme.com/room/sakura)
+- #### [Tryhackme SearchLight OSINT](https://tryhackme.com/room/searchlightosint)
+- #### [KaffeeSec - SoMeSINT](https://tryhackme.com/room/somesint)
+- #### [CyberSoc Wales CTF](https://ctf.cybersoc.wales/)
+
+## Random Resources
 - #### [Learn Linux](https://linuxjourney.com/)
 - #### Precompiled Exploits: 
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits "https://github.com/offensive-security/exploit-database-bin-sploits") 
