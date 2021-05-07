@@ -110,6 +110,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 ## Active-Directory	
 - #### [Active Directory Security](https://adsecurity.org/)
+- #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
+
+---
 
 ## OSINT Challenges / CTF's
 
