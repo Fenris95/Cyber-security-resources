@@ -128,6 +128,8 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [KaffeeSec - SoMeSINT](https://tryhackme.com/room/somesint)
 - #### [CyberSoc Wales CTF](https://ctf.cybersoc.wales/)
 
+---
+
 ## Random Resources
 - #### [Learn Linux](https://linuxjourney.com/)
 - #### Precompiled Exploits: 
