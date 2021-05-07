@@ -118,11 +118,11 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
-- #### [OSINT challenges](https://courses.thecyberinst.org/courses/osint-challenge)
+- #### [OSINT Challenges](https://courses.thecyberinst.org/courses/osint-challenge)
 - #### [Sourcing Game](https://sourcing.games/game-1/)
 - #### [Quiztime Twitter](https://twitter.com/quiztime)
 - #### [OSINT Mini course](https://courses.thecyberinst.org/courses/osintmini)
-- #### [OSINT GAME](https://twitter.com/Sector035/status/1211038518635614208)
+- #### [OSINT Game](https://twitter.com/Sector035/status/1211038518635614208)
 - #### [Tracelabs search-party](https://www.tracelabs.org/initiatives/search-party)
 - #### [Tryhackme Geo Locating Images](https://tryhackme.com/room/geolocatingimages)
 - #### [Tryhackme Googl Dorking](https://tryhackme.com/room/googledorking)
