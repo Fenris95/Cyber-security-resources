@@ -5,7 +5,7 @@ It will help you
 Credits are also included for some google docs
 
 Some (2) are taken from [Mr.Nickapic](https://bit.ly/33QzpN5) from this [repo](https://bit.ly/3tU4dXX)
-If that link doesnt work please try this [link](https://bit.ly/3hziKWH) or [this](https://bit.ly/2RqKjqp).
+If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this](https://bit.ly/3hziKWH).
 
 # My Resources 
 
