@@ -4,6 +4,9 @@ It will help you
 
 Credits are also included for some google docs
 
+Some (2) are taken from [Mr.Nickapic](https://bit.ly/33QzpN5) from this [repo](https://bit.ly/3tU4dXX)
+If that link doesnt work please try this [link](https://bit.ly/3hziKWH) or [this](https://bit.ly/2RqKjqp).
+
 # My Resources 
 
 ### Index
@@ -55,6 +58,7 @@ Credits are also included for some google docs
 ---
 
 ## Web-Pentesting
+ - #### [Hacker101](https://www.hacker101.com/playlists/newcomers)
  - #### [Tryhackme Web Path](https://tryhackme.com/paths)
  - #### [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI)
  - #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
@@ -108,7 +112,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 --- 
 
-## Active-Directory	
+## Active-Directory
+- #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
+- #### [IRED](https://www.ired.team)
 - #### [Active Directory Security](https://adsecurity.org/)
 - #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
 
