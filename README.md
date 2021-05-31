@@ -113,6 +113,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Active-Directory
+- #### [Active Directory Basics](https://activedirectorypro.com/glossary/)
+- #### [Tryhackme Active Directory Basics](https://tryhackme.com/room/activedirectorybasics)
 - #### [AD Escalation](https://hackmag.com/security/windows-ad-escalation/)
 - #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
 - #### [Kerberos authentication explained](https://www.varonis.com/blog/kerberos-authentication-explained/)
