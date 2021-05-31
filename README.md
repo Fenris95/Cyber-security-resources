@@ -113,6 +113,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Active-Directory
+- #### [AD Escalation](https://hackmag.com/security/windows-ad-escalation/)
 - #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
 - #### [Kerberos authentication explained](https://www.varonis.com/blog/kerberos-authentication-explained/)
 - #### [AP-REP roasting using rebeus and hashcat](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat)
