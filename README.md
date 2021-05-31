@@ -113,6 +113,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Active-Directory
+- #### [Attacking Active Directory (zer1t0)](https://zer1t0.gitlab.io/posts/attacking_ad/)
 - #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
 - #### [IRED](https://www.ired.team)
 - #### [Kerberoasting](https://attack.stealthbits.com/cracking-kerberos-tgs-tickets-using-kerberoasting)
