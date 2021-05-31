@@ -113,13 +113,20 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Active-Directory
-- #### [Attacking Active Directory (zer1t0)](https://zer1t0.gitlab.io/posts/attacking_ad/)
 - #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
+- #### [Kerberos authentication explained](https://www.varonis.com/blog/kerberos-authentication-explained/)
+- #### [AP-REP roasting using rebeus and hashcat](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat)
+- #### [PTT Attack in mimikatz](https://medium.com/@t0pazg3m/pass-the-ticket-ptt-attack-in-mimikatz-and-a-gotcha-96a5805e257a)
+- #### [Kerberoasting revisting](https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1)
+- #### [Attacking Active Directory (zer1t0)](https://zer1t0.gitlab.io/posts/attacking_ad/)
+- #### [Not A Security Boundary: Breaking Forest Trusts](https://www.harmj0y.net/blog/redteaming/not-a-security-boundary-breaking-forest-trusts/)
 - #### [IRED](https://www.ired.team)
 - #### [Kerberoasting](https://attack.stealthbits.com/cracking-kerberos-tgs-tickets-using-kerberoasting)
 - #### [Harmj0y Blogs](https://blog.harmj0y.net)
 - #### [CIS232 lessons](http://cis232.cis131.com/lessons)
 - #### [Active Directory Security](https://adsecurity.org/)
+- #### [Post Exploitation](http://www.pentest-standard.org/index.php/Post_Exploitation)
+- #### [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821)
 - #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
 
 ---
