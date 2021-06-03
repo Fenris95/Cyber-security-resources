@@ -113,6 +113,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Active-Directory
+- #### [Active Directory Environments Part Introduction](https://www.varonis.com/blog/pen-testing-active-directory-environments-part-introduction-crackmapexec-powerview/)
 - #### [Active Directory Basics](https://activedirectorypro.com/glossary/)
 - #### [Tryhackme Active Directory Basics](https://tryhackme.com/room/activedirectorybasics)
 - #### [AD Escalation](https://hackmag.com/security/windows-ad-escalation/)
