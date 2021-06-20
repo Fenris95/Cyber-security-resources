@@ -11,16 +11,16 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ### Index
 
-- #### Networking
-- #### Web Pentesting
-- #### Binary Expolitation
-- [Practice Sites] (#Practice-Sites)
+- [Programming](#Networking)
+- [Web Pentesting](#Web-Pentesting)
+- [Binary Exploitation](#Binary-Exploitation)
+- [Practice Sites](#Practice-Sites)
 - [Programming](#Programming)
-- #### Active Directory
-- #### OSINT Challenges / CTF's
-- #### Random Resources
-- #### Buffer Overflows
-- #### Cheat Sheets
+- [Active Directory](#Active-Directory)
+- [OSINT Challenges / CTF's](#OSINT-Challenges-/-CTF's)
+- [Random Resources](#Random-Resources)
+- [Buffer Overflows](#Buffer-Overflows)
+- [Cheat Sheets](#Cheat-Sheets)
 ---
 
  ## Networking
