@@ -11,7 +11,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ### Index
 
-- #### [Networking](https://github.com/Aksheet10/Cyber-security-resources#networking-1)
+- #### [Networking](#networking-1)
 - #### [Web Pentesting](https://github.com/Aksheet10/Cyber-security-resources#web-pentesting-1)
 - #### [Binary Expolitation](https://github.com/Aksheet10/Cyber-security-resources#binary-expolitation-1)
 - #### Practice Sites
