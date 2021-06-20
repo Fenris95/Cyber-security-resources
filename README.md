@@ -14,8 +14,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### Networking
 - #### Web Pentesting
 - #### Binary Expolitation
-- #### Practice Sites
-- 
+- [Practice Sites] (#Practice-Sites)
 - [Programming](#Programming)
 - #### Active Directory
 - #### OSINT Challenges / CTF's
