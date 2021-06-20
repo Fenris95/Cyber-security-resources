@@ -13,7 +13,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 - [Networking](#Networking)
 - [Web Pentesting](#Web-Pentesting)
-- [Binary-Expolitation](#Binary-Expolitation)
+- [Binary-Exploitation](#Binary-Exploitation)
 - [Practice Sites](#Practice-Sites)
 - [Programming](#Programming)
 - [Active Directory](#Active-Directory)
@@ -69,7 +69,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ---
 
-## Binary-Expolitation
+## Binary-Exploitation
 - #### [Pwn College ](https://pwn.college/modules/intro "https://pwn.college/modules/intro")
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html "https://opensecuritytraining.info/IntroX86.html")
 
