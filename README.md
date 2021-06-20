@@ -13,7 +13,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 - [Networking](#Networking)
 - [Web Pentesting](#Web-Pentesting)
-- [Binary Exploitation](#Binary-Exploitation)
+- [Binary Exploitats](#Binary-Exploitats)
 - [Practice Sites](#Practice-Sites)
 - [Programming](#Programming)
 - [Active Directory](#Active-Directory)
