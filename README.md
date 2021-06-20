@@ -11,9 +11,9 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ### Index
 
-- #### Networking
-- #### Web Pentesting
-- #### Binary Expolitation
+- #### [Networking](https://github.com/Aksheet10/Cyber-security-resources#networking-1)
+- #### [Web Pentesting](https://github.com/Aksheet10/Cyber-security-resources#web-pentesting-1)
+- #### [Binary Expolitation](https://github.com/Aksheet10/Cyber-security-resources#binary-expolitation-1)
 - #### Practice Sites
 - #### Programming
 - #### Active Directory
@@ -69,9 +69,10 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ---
 
-## Binary-Expolitation
+## Binary-Exploitation
 - #### [Pwn College ](https://pwn.college/modules/intro "https://pwn.college/modules/intro")
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html "https://opensecuritytraining.info/IntroX86.html")
+- #### [Swanand's blog on Reversing](https://swanandx.github.io/blog/posts/re/ctfs/)
 
 ---
 
