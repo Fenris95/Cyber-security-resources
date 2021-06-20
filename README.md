@@ -11,7 +11,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ### Index
 
-- [Programming](#Networking)
+- [Networking](#Networking)
 - [Web Pentesting](#Web-Pentesting)
 - [Binary Exploitation](#Binary-Exploitation)
 - [Practice Sites](#Practice-Sites)
